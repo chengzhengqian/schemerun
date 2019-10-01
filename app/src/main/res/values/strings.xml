@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SchemeRun</string>
+    <string name="hint">put some expression</string>
+    <string name="run">run</string>
+    <string name="next">next</string>
+    <string name="previous">prev</string>
+    <string name="output">output</string>
+</resources>
